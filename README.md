@@ -1,5 +1,23 @@
 # Finite-state_machine
-It's the finite-state machine that represent one of my days
+It's the finite-state machine that represent one of my days  
+<img src="visual.png" alt="Alt text" title="Optional title">  
+## The list of states:
+sleep  
+wake up  
+breakfast  
+brush teeth  
+go to first pair  
+go to second pair  
+lunch  
+go for walk with Stepan Fedyniak  
+essey  
+eat ice cream  
+do lab work  
+talk with friends  
+prepare to test  
+clash royale one on one  
+lie down  
+have a shower  
 # Some examples
 ### 1
 I am sleeping  
