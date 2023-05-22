@@ -2,10 +2,10 @@
 It's the finite-state machine that represent one of my days
 # Some examples
 ### 1
-I am sleeping
-New day!
-I am eating breakfast in the Trapezna
-I am brushing my teeth
+I am sleeping  
+New day!  
+I am eating breakfast in the Trapezna  
+I am brushing my teeth  
 I am going to the first pair
 I am going to the second pair
 I am eating lunch in the Trapezna
